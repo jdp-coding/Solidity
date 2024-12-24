@@ -148,7 +148,7 @@ contract sol09 {
 
 // 10. 숫자만 들어가는 array numbers를 선언하고 숫자를 넣고(push), 빼고(pop), 특정 n번째 요소의 값을 볼 수 있는(get)함수를 구현하세요.
 
-contract sol06 {
+contract sol10 {
     uint[] numbers;
 
     function pushArray(uint _num) public {
