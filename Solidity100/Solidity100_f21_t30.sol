@@ -110,8 +110,10 @@ contract Sol29 {
     uint public a;
     string public b;
 
-    constructo
-    
+    constructor() {
+        a=10;
+        b="A";
+    }
 }
 
 
